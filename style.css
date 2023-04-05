@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Plus Jakarta Sans';
+  }
+  
+  body {
+    width: 100vw;
+    min-height: 100vh;
+    font-family: "Barlow Semi Condensed", sans-serif;
+   color: linear-gradient(180deg, #FFFFFF 0%, #F0F1FF 100%);
+ 
+  }
+
+  .head {
+
+    justify-content: space-between;
+  }
+
+  .main {
+    padding: 22px 24px 80px 22px;
+   
+
+  }
+  
+
+  .card {
+   margin-top: 40px; 
+    
+  }
+
+
+  .checkout {
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    border-radius: 10px;
+  }
+
+
+  .checkout {
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    border-radius: 10px;
+    
+  }
+  
+  .card {
+    background: #FFFFFF;
+    box-shadow: 0px 25px 50px rgba(6, 22, 141, 0.0442381);
+    border-radius: 10px;
+    padding: 28px;
+    
+  }
+
+  .toptext {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 35px;
+    color: #13183F;
+
+  }
+
+  .topbutton {
+    background: #13183F;
+    border-radius: 28px;
+    Height: 48px;
+    width: 140px;
+
+
+  }
+
+  .topbuttontext {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+  }
+
+  .titlehero {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 50px;
+    color: #13183F;
+    margin-top: 45px;
+
+  }
+
+  .descriptionhero {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #83869A;
+    margin-top: 26px;
+
+  }
+
+  .midbutton {
+    height: 56px;
+    width: 167px;
+    border-radius: 31.5px;
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    margin-top: 24px;
+    
+
+  }
+
+
+
+  .midbuttontext {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+
+  }
+
+
+   .check {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+
+   }
+
+   .title {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 25px;
+    color: #13183F;
+    margin-top: 24px;
+
+   }
+
+   .description {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #83869A;
+    margin-top: 16px;
+
+   }
+
+   .proceed {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    color: #F74780;
+    
+   }
+
+   .link {
+    margin-top: 24px;
+   }
+
+  .icon {
+    position: relative;
+    top: -45px;
+    display: block;
+    width: 56px;
+  }
+
+
+  .footer{
+    display: flex;
+    justify-content: space-between;
+    background: #13183F;
+    padding: 16px;
+    margin-top: 80px;
+  }
+
+   .downtext { 
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 35px;
+    color: #FFFFFF;
+    }
+
+.downbutton {
+    background: linear-gradient(180deg, #4851FF 0%, #F02AA6 100%);
+    border-radius: 28px;
+    height: 48px;
+    width: 140px;
+}
+
+.downbuttontext {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
